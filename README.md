@@ -24,6 +24,9 @@
   ![Sample README](./Develop/img/Sample-README-File.png)
   ![Terminal Input](./Develop/img/Terminal-Input.png)
 
+  ## Walk Through Video
+  [![Watch the video](./Develop/img/README-generator-walk-through-video.png)](https://youtu.be/Nr_Mrgcgehw)
+
   ### Repository link
   hhttps://github.com/Shuyu-Sun/week9-Node.js-Challenge--Professional-README-Generator
 
