@@ -101,7 +101,7 @@ const questions = [
             },
     //checkbox that allows license choice
         {
-            type: 'checkbox',
+            type: 'list',
             name: 'license',
             message: 'Please choose a license.',
             choices: ['Apache', 'MIT', 'BSD', 'GPL', 'None'],

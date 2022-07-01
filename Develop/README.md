@@ -1,5 +1,5 @@
-# Sample README File
-
+# readme generator
+  ![License Badge](https://shields.io/badge/license-MIT-green)
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
@@ -10,23 +10,27 @@
   - [Questions](#questions)
 
   ## Description:
-  This is a sample description for README generator project.
+  generate readme file
 
   ## Installation:
-  Follow these steps to properly install this application:
+  this is where you put your installation instructions.
 
   ## Usage:
-  Instructions for use:
+  INSTRUCTION LISTS
 
   ## Contribution:
-  Give the guidelines for assisting with your project here.
+  This is where put how others contribute to this project.
 
   ## Testing:
-  Instructions for testing application:
+  undefined
+
+  ## License
+
+  https://mit-license.org/
 
   ## Questions:
   For further information, please contact
   - Github: [Shuyu-Sun](https://github.com/Shuyu-Sun)
-  - Email: stellasunmail@gmail.com 
+  - Email: stellasunmai@.gmail.com 
   
   
